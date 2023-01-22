@@ -1,0 +1,10 @@
+html, body {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+}
+
+canvas {
+	background: #e7e7e7;
+}
